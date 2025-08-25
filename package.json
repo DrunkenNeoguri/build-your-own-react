@@ -1,0 +1,6 @@
+{
+  "name": "build-own-your-react",
+  "version": "1.0.0",
+  "description": "SPA 프로젝트 만들기의 일환으로 Build Own Your React 블로그글을 참고하여 따라 만들어봤습니다.",
+  "private": true
+}
